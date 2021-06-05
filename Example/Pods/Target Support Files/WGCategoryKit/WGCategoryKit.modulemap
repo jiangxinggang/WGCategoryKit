@@ -1,0 +1,6 @@
+framework module WGCategoryKit {
+  umbrella header "WGCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
