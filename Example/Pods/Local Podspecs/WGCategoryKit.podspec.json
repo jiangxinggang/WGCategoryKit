@@ -1,6 +1,6 @@
 {
   "name": "WGCategoryKit",
-  "version": "1",
+  "version": "0.0.3",
   "summary": "A short description of WGCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/jiangxinggang/WGCategoryKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jiangxinggang/WGCategoryKit.git",
-    "tag": "1"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "9.0"

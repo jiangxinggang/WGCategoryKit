@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - WGCategoryKit (1)
+  - WGCategoryKit (0.0.3)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  WGCategoryKit: 170aae988358e00491681e92de22088c58684180
+  WGCategoryKit: 26852b3f824ff4cd325e6b06cac325085eceecfd
 
 PODFILE CHECKSUM: 80afea472ddca9471b58e4a1e7fd7d7dbaa70449
 
